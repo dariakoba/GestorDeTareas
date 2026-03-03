@@ -1,0 +1,32 @@
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.exe
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.deps.json
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.runtimeconfig.json
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.dll
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.pdb
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.csproj.GenerateResource.cache
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.AssemblyInfoInputs.cache
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.AssemblyInfo.cs
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.dll
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\refint\GestoorTareas_WindowsForms.dll
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.pdb
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.genruntimeconfig.cache
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\ref\GestoorTareas_WindowsForms.dll
+C:\Users\darkob\source\repos\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestorTareas_WindowsForms.Form1.resources
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.exe
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.deps.json
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.runtimeconfig.json
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.dll
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\bin\Debug\net8.0-windows\GestoorTareas_WindowsForms.pdb
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestorTareas_WindowsForms.Form1.resources
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.csproj.GenerateResource.cache
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.AssemblyInfoInputs.cache
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.AssemblyInfo.cs
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.dll
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\refint\GestoorTareas_WindowsForms.dll
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.pdb
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\GestoorTareas_WindowsForms.genruntimeconfig.cache
+C:\Users\dasha\Downloads\GestoorTareas_WindowsForms (1)\GestoorTareas_WindowsForms\GestoorTareas_WindowsForms\obj\Debug\net8.0-windows\ref\GestoorTareas_WindowsForms.dll
