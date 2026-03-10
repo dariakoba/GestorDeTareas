@@ -56,7 +56,7 @@ namespace GestorTareas_WindowsForms
         private void ActualizarLista()
         {
             listBoxTareas.Items.Clear();
-            var tareas = gestor.ObtenerTareas(); 
+            var tareas = gestor.ObtenerTareas();
             foreach (var tarea in tareas)
                 listBoxTareas.Items.Add(tarea.ToString());
 
@@ -106,7 +106,29 @@ namespace GestorTareas_WindowsForms
 
         private void lblContadorTareas_Click_1(object sender, EventArgs e)
         {
-            
+
+        }
+
+        private void btnLimpiarCampos_Click(object sender, EventArgs e)
+        {
+            // Limpia los TextBox
+            textBoxNombre.Clear();
+            textBoxDescripcion.Clear();
+
+            // Resetea el DateTimePicker a la fecha de hoy
+            dateTimePicker1.Value = DateTime.Today;
+
+            // Deselecciona cualquier tarea seleccionada en la lista
+            listBoxTareas.ClearSelected();
+
+            // Deselecciona el CheckBox de prioridad
+            chkPrioridadAlta.Checked = false;
+
+            //restablece el ComboBox de categoría
+            cmbCategoria.SelectedIndex = -1;
+
+            // Actualiza la lista si es necesario
+            ActualizarLista();
         }
     }
 }

@@ -31,6 +31,7 @@
             chkPrioridadAlta = new CheckBox();
             cmbCategoria = new ComboBox();
             lblContadorTareas = new Label();
+            btnLimpiarCampos = new Button();
             SuspendLayout();
             // 
             // textBoxNombre
@@ -133,14 +134,24 @@
             lblContadorTareas.AutoSize = true;
             lblContadorTareas.Location = new Point(58, 267);
             lblContadorTareas.Name = "lblContadorTareas";
-            lblContadorTareas.Size = new Size(50, 20);
+            lblContadorTareas.Size = new Size(128, 20);
             lblContadorTareas.TabIndex = 11;
-            lblContadorTareas.Text = "label3";
-           
+            lblContadorTareas.Text = "Número de tareas";
+            // 
+            // btnLimpiarCampos
+            // 
+            btnLimpiarCampos.Location = new Point(215, 269);
+            btnLimpiarCampos.Name = "btnLimpiarCampos";
+            btnLimpiarCampos.Size = new Size(138, 29);
+            btnLimpiarCampos.TabIndex = 12;
+            btnLimpiarCampos.Text = "Limpiar Campos";
+            btnLimpiarCampos.UseVisualStyleBackColor = true;
+            btnLimpiarCampos.Click += btnLimpiarCampos_Click;
             // 
             // Form1
             // 
             ClientSize = new Size(903, 402);
+            Controls.Add(btnLimpiarCampos);
             Controls.Add(lblContadorTareas);
             Controls.Add(cmbCategoria);
             Controls.Add(chkPrioridadAlta);
@@ -163,5 +174,6 @@
         private CheckBox chkPrioridadAlta;
         private ComboBox cmbCategoria;
         private Label lblContadorTareas;
+        private Button btnLimpiarCampos;
     }
 }
