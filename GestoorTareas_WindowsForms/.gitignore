@@ -18,3 +18,6 @@ packages/
 .DS_Store
 Thumbs.db
 
+# Archivos temporales de Visual Studio
+.vs/
+
