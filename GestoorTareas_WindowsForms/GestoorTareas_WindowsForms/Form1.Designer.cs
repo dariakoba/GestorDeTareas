@@ -30,6 +30,7 @@
             label2 = new Label();
             chkPrioridadAlta = new CheckBox();
             cmbCategoria = new ComboBox();
+            lblContadorTareas = new Label();
             SuspendLayout();
             // 
             // textBoxNombre
@@ -127,9 +128,20 @@
             cmbCategoria.TabIndex = 10;
             cmbCategoria.SelectedIndexChanged += comboBox1_SelectedIndexChanged_1;
             // 
+            // lblContadorTareas
+            // 
+            lblContadorTareas.AutoSize = true;
+            lblContadorTareas.Location = new Point(58, 267);
+            lblContadorTareas.Name = "lblContadorTareas";
+            lblContadorTareas.Size = new Size(50, 20);
+            lblContadorTareas.TabIndex = 11;
+            lblContadorTareas.Text = "label3";
+           
+            // 
             // Form1
             // 
             ClientSize = new Size(903, 402);
+            Controls.Add(lblContadorTareas);
             Controls.Add(cmbCategoria);
             Controls.Add(chkPrioridadAlta);
             Controls.Add(label2);
@@ -150,5 +162,6 @@
         private Label label2;
         private CheckBox chkPrioridadAlta;
         private ComboBox cmbCategoria;
+        private Label lblContadorTareas;
     }
 }

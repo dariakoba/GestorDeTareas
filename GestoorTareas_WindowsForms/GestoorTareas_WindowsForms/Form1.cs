@@ -56,8 +56,11 @@ namespace GestorTareas_WindowsForms
         private void ActualizarLista()
         {
             listBoxTareas.Items.Clear();
-            foreach (var tarea in gestor.ObtenerTareas())
-                listBoxTareas.Items.Add(tarea); // agrega el objeto
+            var tareas = gestor.ObtenerTareas(); 
+            foreach (var tarea in tareas)
+                listBoxTareas.Items.Add(tarea.ToString());
+
+            lblContadorTareas.Text = $"Total de tareas: {tareas.Count}";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -99,6 +102,11 @@ namespace GestorTareas_WindowsForms
             listBoxTareas.Items.Clear();
             foreach (var tarea in filtradas)
                 listBoxTareas.Items.Add(tarea);
+        }
+
+        private void lblContadorTareas_Click_1(object sender, EventArgs e)
+        {
+            
         }
     }
 }
