@@ -1,4 +1,4 @@
-using GestoorTareas_WindowsForms;
+﻿using GestoorTareas_WindowsForms;
 using System;
 using System.Windows.Forms;
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -19,8 +19,9 @@ namespace GestorTareas_WindowsForms
         private void buttonAgregar_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(textBoxNombre.Text)) return;//si no tiene nada escrito
+            string categoria = cmbCategoria.SelectedItem?.ToString() ?? "Sin categoría";
 
-            gestor.AgregarTarea(textBoxNombre.Text, textBoxDescripcion.Text, dateTimePicker1.Value);//agrega el elemento con cada cosa q pide el constructor
+            gestor.AgregarTarea(textBoxNombre.Text, textBoxDescripcion.Text, dateTimePicker1.Value, categoria);//agrega el elemento con cada cosa q pide el constructor
             textBoxNombre.Clear();//limpia el hueco para el tit y descr
             textBoxDescripcion.Clear();
             ActualizarLista();
@@ -28,7 +29,7 @@ namespace GestorTareas_WindowsForms
 
         private void buttonEliminar_Click(object sender, EventArgs e)
         {
-            if (listBoxTareas.SelectedItem != null)//validar si est� seleccionado el elemento o no
+            if (listBoxTareas.SelectedItem != null)//validar si estб seleccionado el elemento o no
             {
                 //obtener el nombre
                 string nombre = listBoxTareas.SelectedItem.ToString().Split('|')[0].Trim();
@@ -73,7 +74,7 @@ namespace GestorTareas_WindowsForms
         {
 
         }
-        
+
         private void chkPrioridadAlta_CheckedChanged(object sender, EventArgs e)
         {
             if (listBoxTareas.SelectedItem == null) return;
@@ -81,6 +82,23 @@ namespace GestorTareas_WindowsForms
             var tarea = (Tarea)listBoxTareas.SelectedItem; // obtenemos el objeto directamente
             tarea.PrioridadAlta = chkPrioridadAlta.Checked; // marcamos la prioridad
             ActualizarLista(); // refresca la lista
+        }
+
+        private void comboBox1_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
+        private void cmbCategoria_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //filtrarlos
+            string seleccion = cmbCategoria.SelectedItem?.ToString();
+            var filtradas = gestor.ObtenerTareas()
+                                   .Where(t => t.Categoria == seleccion)
+                                   .ToList();
+
+            listBoxTareas.Items.Clear();
+            foreach (var tarea in filtradas)
+                listBoxTareas.Items.Add(tarea);
         }
     }
 }

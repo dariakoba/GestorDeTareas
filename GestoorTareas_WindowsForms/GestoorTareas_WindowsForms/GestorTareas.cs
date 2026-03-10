@@ -12,9 +12,9 @@ namespace GestorTareas_WindowsForms
             tareas = new List<Tarea>();
         }
 
-        public void AgregarTarea(string nombre, string descripcion, DateTime fecha)
+        public void AgregarTarea(string nombre, string descripcion, DateTime fecha, string categoria)
         {
-            tareas.Add(new Tarea(nombre, descripcion, fecha));
+            tareas.Add(new Tarea(nombre, descripcion, fecha, categoria));
         }
 
         public void EliminarTareaPorNombre(string nombre)

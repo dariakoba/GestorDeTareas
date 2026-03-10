@@ -9,12 +9,14 @@ namespace GestorTareas_WindowsForms
         public DateTime FechaVencimiento { get; set; }
         public bool Completada { get; private set; }
         public bool PrioridadAlta { get; set; }
+        public string Categoria { get; set; }
 
-        public Tarea(string nombre, string descripcion, DateTime fechaVencimiento)
+        public Tarea(string nombre, string descripcion, DateTime fechaVencimiento, string categoria)
         {
             Nombre = nombre;
             Descripcion = descripcion;
             FechaVencimiento = fechaVencimiento;
+            Categoria = categoria;
             Completada = false;
         }
         //código reutilizado
@@ -37,7 +39,7 @@ namespace GestorTareas_WindowsForms
         public override string ToString()
         {//le fecha de vencimiento en formato corto
             string prioridad = PrioridadAlta ? " | PRIORIDAD ALTA" : "";
-            return $"{Nombre} | {Descripcion} | Vence: {FechaVencimiento.ToShortDateString()} | {VerEstado() }{(PrioridadAlta ? " | " + prioridad : "")}";
+            return $"{Nombre} | {Descripcion} | {Categoria} | Vence: {FechaVencimiento.ToShortDateString()} | {VerEstado() }{(PrioridadAlta ? " | " + prioridad : "")}";
         }
     }
 }

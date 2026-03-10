@@ -29,6 +29,7 @@
             label1 = new Label();
             label2 = new Label();
             chkPrioridadAlta = new CheckBox();
+            cmbCategoria = new ComboBox();
             SuspendLayout();
             // 
             // textBoxNombre
@@ -57,12 +58,12 @@
             // 
             listBoxTareas.Location = new Point(370, 7);
             listBoxTareas.Name = "listBoxTareas";
-            listBoxTareas.Size = new Size(429, 244);
+            listBoxTareas.Size = new Size(489, 244);
             listBoxTareas.TabIndex = 3;
             // 
             // buttonAgregar
             // 
-            buttonAgregar.Location = new Point(421, 266);
+            buttonAgregar.Location = new Point(454, 267);
             buttonAgregar.Name = "buttonAgregar";
             buttonAgregar.Size = new Size(84, 34);
             buttonAgregar.TabIndex = 4;
@@ -71,7 +72,7 @@
             // 
             // buttonEliminar
             // 
-            buttonEliminar.Location = new Point(517, 266);
+            buttonEliminar.Location = new Point(550, 267);
             buttonEliminar.Name = "buttonEliminar";
             buttonEliminar.Size = new Size(115, 34);
             buttonEliminar.TabIndex = 5;
@@ -80,7 +81,7 @@
             // 
             // buttonCompletar
             // 
-            buttonCompletar.Location = new Point(641, 266);
+            buttonCompletar.Location = new Point(674, 267);
             buttonCompletar.Name = "buttonCompletar";
             buttonCompletar.Size = new Size(102, 34);
             buttonCompletar.TabIndex = 6;
@@ -108,7 +109,7 @@
             // chkPrioridadAlta
             // 
             chkPrioridadAlta.AutoSize = true;
-            chkPrioridadAlta.Location = new Point(104, 205);
+            chkPrioridadAlta.Location = new Point(58, 206);
             chkPrioridadAlta.Name = "chkPrioridadAlta";
             chkPrioridadAlta.Size = new Size(121, 24);
             chkPrioridadAlta.TabIndex = 9;
@@ -116,9 +117,20 @@
             chkPrioridadAlta.UseVisualStyleBackColor = true;
             chkPrioridadAlta.CheckedChanged += chkPrioridadAlta_CheckedChanged;
             // 
+            // cmbCategoria
+            // 
+            cmbCategoria.FormattingEnabled = true;
+            cmbCategoria.Items.AddRange(new object[] { "Trabajo", "Personal", "Estudios" });
+            cmbCategoria.Location = new Point(185, 204);
+            cmbCategoria.Name = "cmbCategoria";
+            cmbCategoria.Size = new Size(151, 28);
+            cmbCategoria.TabIndex = 10;
+            cmbCategoria.SelectedIndexChanged += comboBox1_SelectedIndexChanged_1;
+            // 
             // Form1
             // 
             ClientSize = new Size(903, 402);
+            Controls.Add(cmbCategoria);
             Controls.Add(chkPrioridadAlta);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -137,5 +149,6 @@
         private Label label1;
         private Label label2;
         private CheckBox chkPrioridadAlta;
+        private ComboBox cmbCategoria;
     }
 }
