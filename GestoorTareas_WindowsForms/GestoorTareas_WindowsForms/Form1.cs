@@ -1,5 +1,7 @@
+using GestoorTareas_WindowsForms;
 using System;
 using System.Windows.Forms;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace GestorTareas_WindowsForms
 {
@@ -52,9 +54,33 @@ namespace GestorTareas_WindowsForms
 
         private void ActualizarLista()
         {
-            listBoxTareas.Items.Clear();//borra todo
-            foreach (var tarea in gestor.ObtenerTareas())//recorre para escribir los elementos otra vez
-                listBoxTareas.Items.Add(tarea.ToString());
+            listBoxTareas.Items.Clear();
+            foreach (var tarea in gestor.ObtenerTareas())
+                listBoxTareas.Items.Add(tarea); // agrega el objeto
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblContadorTareas_Click(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void chkPrioridadAlta_CheckedChanged(object sender, EventArgs e)
+        {
+            if (listBoxTareas.SelectedItem == null) return;
+
+            var tarea = (Tarea)listBoxTareas.SelectedItem; // obtenemos el objeto directamente
+            tarea.PrioridadAlta = chkPrioridadAlta.Checked; // marcamos la prioridad
+            ActualizarLista(); // refresca la lista
         }
     }
 }

@@ -27,7 +27,14 @@ namespace GestorTareas_WindowsForms
             var tarea = tareas.Find(t => t.Nombre.Equals(nombre, StringComparison.OrdinalIgnoreCase));//lo encuentra y después lo marca
             tarea?.MarcarCompleta();
         }
-
+        public void MarcarPrioridadAlta(string nombre, bool prioridadAlta)
+        {
+            var tarea = tareas.FirstOrDefault(t => t.Nombre == nombre);//Busca el primer elemento, como el find en js
+            if (tarea != null)
+            {
+                tarea.PrioridadAlta = prioridadAlta;
+            }
+        }
         public List<Tarea> ObtenerTareas()
         {
             return new List<Tarea>(tareas);

@@ -28,13 +28,14 @@
             buttonCompletar = new Button();
             label1 = new Label();
             label2 = new Label();
+            chkPrioridadAlta = new CheckBox();
             SuspendLayout();
             // 
             // textBoxNombre
             // 
             textBoxNombre.Location = new Point(95, 7);
             textBoxNombre.Name = "textBoxNombre";
-            textBoxNombre.Size = new Size(239, 23);
+            textBoxNombre.Size = new Size(239, 27);
             textBoxNombre.TabIndex = 0;
             // 
             // textBoxDescripcion
@@ -49,40 +50,39 @@
             // 
             dateTimePicker1.Location = new Point(101, 153);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(233, 23);
+            dateTimePicker1.Size = new Size(233, 27);
             dateTimePicker1.TabIndex = 2;
             // 
             // listBoxTareas
             // 
-            listBoxTareas.ItemHeight = 15;
             listBoxTareas.Location = new Point(370, 7);
             listBoxTareas.Name = "listBoxTareas";
-            listBoxTareas.Size = new Size(308, 229);
+            listBoxTareas.Size = new Size(429, 244);
             listBoxTareas.TabIndex = 3;
             // 
             // buttonAgregar
             // 
-            buttonAgregar.Location = new Point(65, 207);
+            buttonAgregar.Location = new Point(421, 266);
             buttonAgregar.Name = "buttonAgregar";
-            buttonAgregar.Size = new Size(75, 23);
+            buttonAgregar.Size = new Size(84, 34);
             buttonAgregar.TabIndex = 4;
             buttonAgregar.Text = "Agregar";
             buttonAgregar.Click += buttonAgregar_Click;
             // 
             // buttonEliminar
             // 
-            buttonEliminar.Location = new Point(164, 207);
+            buttonEliminar.Location = new Point(517, 266);
             buttonEliminar.Name = "buttonEliminar";
-            buttonEliminar.Size = new Size(75, 23);
+            buttonEliminar.Size = new Size(115, 34);
             buttonEliminar.TabIndex = 5;
             buttonEliminar.Text = "Eliminar";
             buttonEliminar.Click += buttonEliminar_Click;
             // 
             // buttonCompletar
             // 
-            buttonCompletar.Location = new Point(259, 207);
+            buttonCompletar.Location = new Point(641, 266);
             buttonCompletar.Name = "buttonCompletar";
-            buttonCompletar.Size = new Size(75, 23);
+            buttonCompletar.Size = new Size(102, 34);
             buttonCompletar.TabIndex = 6;
             buttonCompletar.Text = "Completar";
             buttonCompletar.Click += buttonCompletar_Click;
@@ -90,24 +90,36 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(38, 15);
+            label1.Location = new Point(29, 14);
             label1.Name = "label1";
-            label1.Size = new Size(37, 15);
+            label1.Size = new Size(47, 20);
             label1.TabIndex = 7;
             label1.Text = "Título";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(20, 44);
+            label2.Location = new Point(12, 44);
             label2.Name = "label2";
-            label2.Size = new Size(69, 15);
+            label2.Size = new Size(87, 20);
             label2.TabIndex = 8;
             label2.Text = "Descripción";
             // 
+            // chkPrioridadAlta
+            // 
+            chkPrioridadAlta.AutoSize = true;
+            chkPrioridadAlta.Location = new Point(104, 205);
+            chkPrioridadAlta.Name = "chkPrioridadAlta";
+            chkPrioridadAlta.Size = new Size(121, 24);
+            chkPrioridadAlta.TabIndex = 9;
+            chkPrioridadAlta.Text = "Prioridad alta";
+            chkPrioridadAlta.UseVisualStyleBackColor = true;
+            chkPrioridadAlta.CheckedChanged += chkPrioridadAlta_CheckedChanged;
+            // 
             // Form1
             // 
-            ClientSize = new Size(690, 316);
+            ClientSize = new Size(903, 402);
+            Controls.Add(chkPrioridadAlta);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBoxNombre);
@@ -124,5 +136,6 @@
         }
         private Label label1;
         private Label label2;
+        private CheckBox chkPrioridadAlta;
     }
 }
