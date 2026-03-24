@@ -12,6 +12,7 @@ namespace GestorTareas_WindowsForms
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("Login implementado");
+            Console.WriteLine("Registro implementado");
         }
     }
 }
