@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\gestoortareas_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|c:\\users\\dasha\\downloads\\gestoortareas_windowsforms (1)\\gestoortareas_windowsforms\\gestoortareas_windowsforms\\gestoortareas_windowsforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6C060D-9DE6-4942-9FDE-64A384DF4BD7}|GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj|solutionrelative:gestoortareas_windowsforms\\gestoortareas_windowsforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,22 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 511,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Tarea.cs",
-              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Tarea.cs",
-              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Tarea.cs",
-              "RelativeToolTip": "GestoorTareas_WindowsForms\\Tarea.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:36.71Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -64,45 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs",
-              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs [Design]",
-              "RelativeToolTip": "GestoorTareas_WindowsForms\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Tarea.cs",
+              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Tarea.cs",
+              "RelativeToolTip": "GestoorTareas_WindowsForms\\Tarea.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:24.202Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-10T16:09:45.558Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs",
-              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs",
-              "RelativeToolTip": "GestoorTareas_WindowsForms\\Form1.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAA3wFIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:26.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GestorTareas.cs",
-              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\GestorTareas.cs",
-              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\GestorTareas.cs",
-              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\GestorTareas.cs",
-              "RelativeToolTip": "GestoorTareas_WindowsForms\\GestorTareas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:34.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Program.cs",
               "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Program.cs",
@@ -110,25 +70,47 @@
               "RelativeToolTip": "GestoorTareas_WindowsForms\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:35.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T16:09:44.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.Designer.cs",
               "RelativeToolTip": "GestoorTareas_WindowsForms\\Form1.Designer.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:27.094Z",
+              "WhenOpened": "2026-03-10T16:09:41.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs",
+              "RelativeToolTip": "GestoorTareas_WindowsForms\\Form1.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwIIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:09:38.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Form1.cs [Design]",
+              "RelativeToolTip": "GestoorTareas_WindowsForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:09:38.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\Class1.cs",
               "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\Class1.cs",
@@ -136,8 +118,19 @@
               "RelativeToolTip": "GestoorTareas_WindowsForms\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:55:23.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T16:09:37.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestoorTareas_WindowsForms.csproj",
+              "DocumentMoniker": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj",
+              "RelativeDocumentMoniker": "GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj",
+              "ToolTip": "C:\\Users\\dasha\\Downloads\\GestoorTareas_WindowsForms (1)\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj",
+              "RelativeToolTip": "GestoorTareas_WindowsForms\\GestoorTareas_WindowsForms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T16:09:34.667Z"
             }
           ]
         }
