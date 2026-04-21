@@ -6,6 +6,8 @@ namespace GestorTareas_WindowsForms
     {
         public string Nombre { get; set; }//getters y setters típicos de c#
         public string Descripcion { get; set; }
+
+        public List<string> Etiquetas { get; set; } = new List<string>(); // Nueva propiedad
         public DateTime FechaVencimiento { get; set; }
         public bool Completada { get; private set; }
         public bool PrioridadAlta { get; set; }
